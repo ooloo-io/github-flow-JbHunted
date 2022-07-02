@@ -13,12 +13,9 @@
 </head>
 
 <body>
-  <header class="header">
-  Header
-  </header>
-  <main class="content"></main>
-  <footer class="footer">
-  Footer
-  </footer>
+  Placeholder
 </body>
 </html>
+  <header class="header">
+    Header
+  </header>
